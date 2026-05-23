@@ -29,33 +29,33 @@ export const TIMELINE = [
   {
     title: 'First Conversation',
     text: 'The moment a simple "happy birthday Krishi 7-c" turned into hours I never wanted to end.',
-    image: 'public/photos/start.jpeg',
+    image: 'photos/start.jpeg',
   },
   {
     title: 'First Call',
     text: 'Hearing your voice felt like coming home to a place I had never been.',
-    image: 'public/photos/14.jpeg',
+    image: 'photos/14.jpeg',
   },
   {
     title: 'After the First Fight',
     text: 'We learned that love is not the absence of storms. It is choosing each other after them.',
-    image: 'public/photos/KP.jpeg',
+    image: 'photos/KP.jpeg',
   },
   {
     title: 'First "I Miss You"',
     text: 'Three words that made distance feel like a temporary lie.',
-    image: 'public/photos/37.jpeg',
+    image: 'photos/37.jpeg',
   },
   {
     title: 'Favorite Memory',
     text: 'The night I realized I am completely, helplessly gone for you.',
-    image: 'public/photos/us.jpeg',
+    image: 'photos/us.jpeg',
   },
   {
     date: 'Today',
     title: 'Two Months ❤️',
     text: '60 days of you. 60 days of us. And I would do every single one again.',
-    image: 'public/photos/us2.jpeg',
+    image: 'photos/us2.jpeg',
     highlight: true,
   },
 ]
@@ -74,25 +74,25 @@ export const VOICE_NOTES = [
     id: 'vn1',
     title: 'Play this when you miss me',
     message: 'Close your eyes. I am right here.',
-    src: 'public/voice-notes/one_PuHneNiP.m4a',
+    src: 'voice-notes/one_PuHneNiP.m4a',
   },
   {
     id: 'vn2',
     title: 'For your hardest days',
     message: 'You are loved more than words can carry.',
-    src: 'public/voice-notes/two.mp4',
+    src: 'voice-notes/two.mp4',
   },
   {
     id: 'vn3',
     title: 'Goodnight, love',
     message: 'Dream of us. I will be there.',
-    src: 'public/voice-notes/three.mp4',
+    src: 'voice-notes/three.mp4',
   },
   {
     id: 'vn4',
     title: 'When you are angry',
     message: 'I am here for you. I will listen. I will help. I will be here for you.',
-    src: 'public/voice-notes/four.mp4',
+    src: 'voice-notes/four.mp4',
   },
 ]
 
@@ -110,12 +110,12 @@ Forever yours,
 ${SITE.yourName}`
 
 export const GALLERY = [
-  { src: 'public/photos/themom.jpeg', caption: 'The moment I knew.' },
-  { src: 'public/photos/us.jpeg', caption: 'Us, being us.' },
-  { src: 'public/photos/71.jpeg', caption: 'My favorite place, beside you.' },
-  { src: 'public/photos/13.jpeg', caption: '60 days and counting.' },
-  { src: 'public/photos/26.jpeg', caption: 'That smile. Always.' },
-  { src: 'public/photos/6.jpeg', caption: 'Home.' },
+  { src: 'photos/themom.jpeg', caption: 'The moment I knew.' },
+  { src: 'photos/us.jpeg', caption: 'Us, being us.' },
+  { src: 'photos/71.jpeg', caption: 'My favorite place, beside you.' },
+  { src: 'photos/13.jpeg', caption: '60 days and counting.' },
+  { src: 'photos/26.jpeg', caption: 'That smile. Always.' },
+  { src: 'photos/6.jpeg', caption: 'Home.' },
 ]
 
 export const OPEN_WHEN = [
